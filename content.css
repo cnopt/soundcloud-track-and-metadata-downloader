@@ -1,0 +1,11 @@
+.ext-con-menu{
+	top:0;
+	left:0;
+	display: none;
+	position:fixed;
+	width:300px;
+	height:300px;
+	background: white;
+	pointer-events:none;
+	z-index: 999999;
+}

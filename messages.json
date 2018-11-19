@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "Download soundcloud tracks",
+      "message": "Download tracks, and write all useful metadata to the file (album art, genre, release date, etc.)"
+   },
+   "appName": {
+      "description": "Download soundcloud tracks",
+      "message": "SoundCloud track & metadata downloader"
+   }
+}
